@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin_lars:lars123@cluster0-delyk.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "sl_JwtSecretValue"
+}
